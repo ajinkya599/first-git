@@ -1,6 +1,2 @@
 # first-git
-i got changed
-again!!
-yet again!
-and again!!
-and yet again.
+i got change
